@@ -1,1 +1,1 @@
-export * from "./target.types";
+export * from "./animation.types";
